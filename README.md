@@ -4,9 +4,9 @@ I'm Juan and I'm a backend senior developer at [Nextlane](https://github.com/Nex
 
 ## My job
 
-- **I'm currently working on**: A lot of cloud use cases using microservices, DDD, and some other exciting stuff
+- **I'm currently working on**: A lot of cloud use cases using microservices architecture, DDD, and some other exciting stuff.
 - **Ask me about**: .NET, DDD, CQRS, RESTful APIs, SQL Databases, Software Architecture, Design Patterns, Testing, and a lot more...
-- **How to reach me**: Reach out and connect with me on LinkedIn!
+- **How to reach me**: Reach out and connect with me on Microsoft Teams.
 
 ## My hobbies
 
