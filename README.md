@@ -1,4 +1,12 @@
-## Hi there 👋
+### Hey, there
+
+I'm Juan and I'm a backend senior developer at [@](https://github.com/Nextlane-R-D). I love building things using [C#](https://github.com/dotnet/csharplang) and learn new stuff every day.
+
+## My job
+
+- **I'm currently working on**: A lot of cloud use cases using microservices, DDD, and some other exciting stuff
+- **Ask me about**: .NET, DDD, CQRS, RESTful APIs, SQL Databases, Software Architecture, Design Patterns, Testing, and a lot more...
+- **How to reach me**: Reach out and connect with me on LinkedIn!
 
 <!--
 **jdmartinez-nxl/jdmartinez-nxl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
