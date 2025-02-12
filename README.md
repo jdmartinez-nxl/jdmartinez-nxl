@@ -2,7 +2,7 @@
 
 ### Hey, there
 
-I'm Juan and I'm a backend senior developer in SWAT 1 team at [Nextlane](https://github.com/Nextlane-R-D). I love building things using [C#](https://github.com/dotnet/csharplang) and learn new stuff every day.
+I'm Juan and I'm a backend senior developer in SWAT 1 team at [Nextlane](https://github.com/Nextlane-R-D). I love building things using [C#](https://github.com/dotnet/csharplang) and learning new stuff every day.
 
 ## My job
 
