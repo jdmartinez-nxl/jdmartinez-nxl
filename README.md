@@ -1,4 +1,4 @@
-<img src="https://github.com/Mokkapps/jdmartinez-nxl/blob/main/banner.png" alt="Mokkapps GitHub README header image">
+<img src="https://github.com/jdmartinez-nxl/blob/main/banner.png" alt="README header image">
 
 ### Hey, there
 
