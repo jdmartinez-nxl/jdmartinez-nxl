@@ -1,3 +1,5 @@
+<img src="https://github.com/Mokkapps/jdmartinez-nxl/blob/main/banner.png" alt="Mokkapps GitHub README header image">
+
 ### Hey, there
 
 I'm Juan and I'm a backend senior developer in SWAT 1 team at [Nextlane](https://github.com/Nextlane-R-D). I love building things using [C#](https://github.com/dotnet/csharplang) and learn new stuff every day.
