@@ -26,6 +26,7 @@ You can also check it out my [personal GitHub account](https://github.com/jdmart
 <img align="left" alt="MySql" width="26px" src="https://svgl.app/library/mysql.svg" />
 <img align="left" alt="Microsoft SQL Server" width="26px" src="https://svgl.app/library/sql-server.svg" />
 <img align="left" alt="Docker" width="26px" src="https://svgl.app/library/docker.svg" />
+<img align="left" alt="Notion" width="26px" src="https://svgl.app/library/notion.svg" />
 
 <!--
 **jdmartinez-nxl/jdmartinez-nxl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
